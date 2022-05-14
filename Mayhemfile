@@ -1,0 +1,6 @@
+project: rnshah9/mayhem-yoctolisp
+target: yoctolisp
+
+cmds:
+  - cmd: /repo/yoctolisp @@
+    filepath: /test.l
