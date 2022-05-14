@@ -1,5 +1,6 @@
 project: rnshah9/mayhem-yoctolisp
 target: yoctolisp
+tests: ./examples
 
 cmds:
   - cmd: /repo/yoctolisp @@
